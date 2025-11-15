@@ -1,7 +1,7 @@
 [submodule "dust3r"]
 	path = dust3r
 	url = https://github.com/je6ndar/dust3r
-	branch = cvpr
+	branch = main
 [submodule "asmk"]
 	path = asmk
 	url = https://github.com/jenicek/asmk
