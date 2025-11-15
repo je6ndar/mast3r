@@ -5,3 +5,4 @@
 [submodule "asmk"]
 	path = asmk
 	url = https://github.com/jenicek/asmk
+	branch = master
